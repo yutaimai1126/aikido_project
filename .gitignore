@@ -1,3 +1,4 @@
+.venv
 Tensorflow/labelImg
 Tensorflow/models
 Tensorflow/workspace/videos
