@@ -26,7 +26,7 @@
 #### venvで仮想環境をつくる
 ```shell
 $ python -m venv .venv
-$ venv .venv/bin/activate
+$ . .venv/bin/activate
 ```   
 #### ラベリングツールとTensorflow Object Detection APIをgitclone
 ```shell
